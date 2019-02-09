@@ -1,6 +1,6 @@
 def reverse_each_word(namess)
 n_array = []
-# array = namess.split
+array = namess.split
   
 # array.each do |item|
 #   n_array << item.reverse
